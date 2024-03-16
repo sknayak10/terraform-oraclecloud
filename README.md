@@ -1,0 +1,1 @@
+This Repo is dedicated to Implementation of Oracle Cloud Infrastructure using Terraform (HCL)
